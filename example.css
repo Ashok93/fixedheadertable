@@ -1,0 +1,10 @@
+/* This is a sample css file. Please feel free to copy and use it for your case */
+
+/* Styles for two newly added div's */
+.outer-div{ position: relative}
+.inner-div{clear: both; overflow: auto; height: xx px}
+
+/* Styles for fixed header div which was created by jQuery function */
+.fixed-header{ position: absolute; overflow-x: hidden; top: 0px;  left: 0px; right: 17px; z-index: 1 }
+.fixed-header::-webkit-scrollbar { display: none }
+
