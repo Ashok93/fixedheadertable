@@ -2,7 +2,7 @@
 
 /* Styles for two newly added div's */
 .outer-div{ position: relative}
-.inner-div{clear: both; overflow: auto; height: xx px} /*make sure to set the height for the div*/ 
+.inner-div{clear: both; overflow: auto; height: xx px} /*make sure to set the height for the div or set height for your table avoiding this*/ 
 
 /* Styles for fixed header div which was created by jQuery function */
 .fixed-header{ position: absolute; overflow-x: hidden; top: 0px;  left: 0px; right: 17px; z-index: 1 }
